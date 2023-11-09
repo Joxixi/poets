@@ -1,0 +1,4287 @@
+.poets-org-by-html-to {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultalabaster);
+  display: flex;
+  flex-direction: column;
+  padding: 0px 0px 1.76px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-layout-container {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .banner {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: #343434;
+  display: flex;
+  flex: 0 0 auto;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-nav-collapse {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  gap: 0.01px;
+  position: relative;
+}
+
+.poets-org-by-html-to .list {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.poets-org-by-html-to .item {
+  align-items: center;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 9.69px 0px 9.77px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 13.46px 4px 13.67px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 14.7px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 14.78px 4px 14.98px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 16.65px 4px 16.85px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 14.33px 4px 14.53px;
+  position: relative;
+}
+
+.poets-org-by-html-to .list-margin {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  min-width: 275.99px;
+  padding: 0px 0px 0px 478.63px;
+  position: relative;
+}
+
+.poets-org-by-html-to .list-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -0.01px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-3 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 12.2px 4px 12.4px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcerulean);
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 9.69px 0px 9.77px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 13.21px 4px 13.4px;
+  position: relative;
+}
+
+.poets-org-by-html-to .item-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcrimson);
+  border: 1px solid;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcrimson);
+  display: inline-flex;
+  flex: 0 0 auto;
+  justify-content: center;
+  padding: 13.37px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-5 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 13.43px 4px 13.62px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-2 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-7-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-7-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-7-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-7-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-7-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-7-line-height);
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-promo {
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultcod-gray);
+  flex: 1;
+  flex-grow: 1;
+  margin-top: -0.3px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .section {
+  align-items: center;
+  align-self: stretch;
+  background-image: url(../../../static/img/section.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.3px;
+  padding: 64px 111.43px 0px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-container {
+  height: 366.2px;
+  max-width: 1224px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .div-hero-logo {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 12px;
+  max-width: 612px;
+  padding: 0px 284px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 600px;
+}
+
+.poets-org-by-html-to .large-white-RGB-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  max-width: 600px;
+  position: relative;
+}
+
+.poets-org-by-html-to .large-white-RGB {
+  background-image: url(../../../static/img/large-white-rgb-poets-org-logo-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 59px;
+  max-width: 316px;
+  position: relative;
+  width: 316px;
+}
+
+.poets-org-by-html-to .div-hero-search {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 818px;
+  position: absolute;
+  top: 61px;
+  width: 394px;
+}
+
+.poets-org-by-html-to .form {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .input {
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft-90);
+  flex: 1;
+  flex-grow: 1;
+  height: 48px;
+  position: relative;
+}
+
+.poets-org-by-html-to .overlap-group {
+  height: 23px;
+  left: 20px;
+  position: relative;
+  top: 13px;
+  width: 290px;
+}
+
+.poets-org-by-html-to .div-placeholder {
+  background: none;
+  border: none;
+  color: var(--poetsorg1446857177734375x7531428833007812defaultpale-sky);
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-20-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-20-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-20-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-20-font-weight);
+  left: 0;
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-20-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-20-line-height);
+  margin-top: -1px;
+  padding: 0px 213.61px 0px 0px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 274px;
+}
+
+.poets-org-by-html-to .div-text-field {
+  align-items: center;
+  display: flex;
+  left: 0;
+  padding: 0px 16px 0px 0px;
+  position: absolute;
+  top: 1px;
+  width: 290px;
+}
+
+.poets-org-by-html-to .div-editing-view {
+  flex: 1;
+  flex-grow: 1;
+  height: 20px;
+  position: relative;
+}
+
+.poets-org-by-html-to .button {
+  all: unset;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft-90);
+  box-sizing: border-box;
+  height: 48px;
+  position: relative;
+  width: 64px;
+}
+
+.poets-org-by-html-to .overlap {
+  height: 48px;
+  position: relative;
+  width: 69px;
+}
+
+.poets-org-by-html-to .search-blue-svg-fill {
+  height: 48px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 64px;
+}
+
+.poets-org-by-html-to .text-wrapper-3 {
+  color: transparent;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 20px;
+  left: 18px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .div-hero-summary {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 19.19px;
+  left: 12px;
+  padding: 0px 0px 116.82px;
+  position: absolute;
+  top: 111px;
+  width: 787px;
+}
+
+.poets-org-by-html-to .p-lead {
+  align-self: stretch;
+  height: 76.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .overlap-group-2 {
+  height: 76px;
+  position: relative;
+  top: -1px;
+  width: 714px;
+}
+
+.poets-org-by-html-to .p {
+  color: #343434;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-35-65-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-35-65-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-35-65-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-35-65-font-weight);
+  height: 39px;
+  left: 16px;
+  letter-spacing: var(
+    --poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-35-65-letter-spacing
+  );
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-35-65-line-height);
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .text-wrapper-4 {
+  color: #343434;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-36-8-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-36-8-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-36-8-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-36-8-font-weight);
+  height: 39px;
+  left: 0;
+  letter-spacing: var(
+    --poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-36-8-letter-spacing
+  );
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-extra-light-italic-36-8-line-height);
+  position: absolute;
+  top: 37px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .div-hero-subtext {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 199.2px 22.4px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-5 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 14.4px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-hero-submenu {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 818px;
+  position: absolute;
+  top: 111px;
+  width: 394px;
+}
+
+.poets-org-by-html-to .list-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 11.2px 0px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-link {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultcod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 272.61px 4px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-6 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcerulean);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .item-link-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 283.61px 4px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-7 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .item-link-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 265.61px 4px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .library-texts-books-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 118.61px 4px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-link-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 175.61px 4px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-link-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4px 233.61px 4px 20px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.3px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-block-views {
+  align-items: center;
+  align-self: stretch;
+  background-color: #343434;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 57.6px 111.43px 0px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-daily-poem-poem {
+  height: 714.48px;
+  max-width: 1224px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .overlap-2 {
+  height: 715px;
+  left: 10px;
+  position: relative;
+  width: 1205px;
+}
+
+.poets-org-by-html-to .overlap-3 {
+  height: 715px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1205px;
+}
+
+.poets-org-by-html-to .article {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  box-shadow: 0px 4px 8px #00000033, 0px -3px 0px #00b4f0;
+  display: flex;
+  flex-direction: column;
+  left: 402px;
+  padding: 0px 19.2px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 803px;
+}
+
+.poets-org-by-html-to .article-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 28.8px 19.2px 9.6px 172.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-d-flex {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 19.2px 3.05e-5px 19.2px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0.28px 0px 62.09px;
+  position: relative;
+}
+
+.poets-org-by-html-to .heading-link-the {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 27.8px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-d-flex-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 148.01px;
+  padding: 0px 40.02px;
+  position: relative;
+}
+
+.poets-org-by-html-to .button-margin {
+  align-self: stretch;
+  height: 59.2px;
+  object-fit: cover;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .button-2 {
+  border-color: var(--poetsorg1446857177734375x7531428833007812defaultpale-sky);
+  border-top-style: solid;
+  border-top-width: 0.57px;
+  height: 35.17px;
+  margin-top: -0.01px;
+  position: relative;
+  width: 67.96px;
+}
+
+.poets-org-by-html-to .text-wrapper-8 {
+  color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 24px;
+  left: 10px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  top: 10px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .pseudo {
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  border-right-style: solid;
+  border-right-width: 2.86px;
+  height: 8px;
+  left: 54px;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-45deg);
+  width: 8px;
+}
+
+.poets-org-by-html-to .overlap-group-wrapper {
+  align-self: stretch;
+  height: 443px;
+  max-height: 443px;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .overlap-group-3 {
+  height: 577px;
+  position: relative;
+  width: 592px;
+}
+
+.poets-org-by-html-to .div-field {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  left: 0;
+  padding: 0px 19.19px 136.8px 0px;
+  position: absolute;
+  top: 0;
+  width: 573px;
+}
+
+.poets-org-by-html-to .p-hd-eff {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 247.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-9 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #343434;
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-22-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-22-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-22-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-22-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-22-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-22-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .p-hd-dfa {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 211.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-10 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #343434;
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-91-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-91-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-91-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-91-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-91-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-91-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .p-hd-dcbc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 141.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-11 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #343434;
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-75-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-75-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-75-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-75-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-75-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-18-75-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .p-hd-eedee {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 193.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .p-hd-bbcb {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 191.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-12 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #343434;
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-06-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-06-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-06-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-06-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-06-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-regular-19-06-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .p-hd-dfadb {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 109.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .p-hd-fdd {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 228.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .p-hd-bee {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 190.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .p-hd-ebde {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 115.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .p-hd-acb {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 123.63px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .pseudo-2 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(255, 255, 255, 0) 70%,
+    rgba(255, 255, 255, 0.8) 80%,
+    rgb(255, 255, 255) 90%
+  );
+  height: 443px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 592px;
+}
+
+.poets-org-by-html-to .div-daily-poem-read {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 38.4px 459.34px 28.8px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-6 {
+  align-items: center;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  border: 1px solid;
+  border-color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 6.57px 20.74px 6.57px 20.94px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-13 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-poem-a-day-poem {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 402px;
+}
+
+.poets-org-by-html-to .article-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.6px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  padding: 0px 19.2px 0px 231.42px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1.98px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-14 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-daily-poem-poet {
+  align-items: flex-end;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 401.6px;
+  padding: 0px 7.63e-6px 0px 90.6px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .figure-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 16px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-d-a-powell {
+  background-image: url(../../../static/img/link-d-a-powell-newbiophoto-2019-0-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 314px;
+  max-width: 311px;
+  position: relative;
+  width: 311px;
+}
+
+.poets-org-by-html-to .figcaption {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 111px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-15 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .heading-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 382px;
+  padding: 0px 0px 9.6px;
+  position: absolute;
+  top: 48px;
+}
+
+.poets-org-by-html-to .poem-a-day-wrapper {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcerulean);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 19.2px 23.18px 19.2px 19.2px;
+  position: relative;
+}
+
+.poets-org-by-html-to .poem-a-day {
+  color: #343434;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-semibold-20-lower-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-semibold-20-lower-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-semibold-20-lower-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-semibold-20-lower-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-semibold-20-lower-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-semibold-20-lower-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-poem-actions {
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultcod-gray);
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 397px;
+  width: 402px;
+}
+
+.poets-org-by-html-to .list-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 84px;
+  left: 19px;
+  padding: 0px 53.62px 0px 0px;
+  position: relative;
+  top: 19px;
+  width: 363px;
+}
+
+.poets-org-by-html-to .img-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  height: 42px;
+  padding: 6px 9.6px 6px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .img {
+  display: block;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.poets-org-by-html-to .item-3 {
+  flex: 0 0 auto;
+  height: 42px;
+  position: relative;
+}
+
+.poets-org-by-html-to .footer {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 478px;
+  width: 402px;
+}
+
+.poets-org-by-html-to .div-block {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultcod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10.03px;
+  padding: 18.77px 19.2px 19.19px 19.19px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 123.21px 9.6px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-16 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 22.4px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .input-2 {
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border: 1px solid;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultboulder);
+  height: 29px;
+  left: -5000px;
+  position: absolute;
+  top: 194px;
+  width: 178px;
+}
+
+.poets-org-by-html-to .div-indicates {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 238.21px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-17 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-14-4-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-14-4-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-14-4-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-14-4-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-14-4-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-regular-14-4-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-mc-field-group {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 0.57px;
+  padding: 0px 0px 0.57px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .label-margin {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 0px 8px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .label {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 248.21px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-18 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .input-3 {
+  align-self: stretch;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border: 1px solid;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultloblolly);
+  height: 36.86px;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-right: -1px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .input-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  border: 1px solid;
+  border-color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  display: flex;
+  flex: 0 0 auto;
+  padding: 5.71px 145.51px 5.71px 145.7px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-19 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-container-wrapper {
+  align-items: center;
+  align-self: stretch;
+  background: linear-gradient(180deg, rgb(201, 202, 203) 0%, rgba(0, 0, 0, 0) 20%);
+  background-image: url(../../../static/img/div-block-views-block-promoted-poems-homepage-block.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 57.6px 111.43px 57.6px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .overlap-wrapper {
+  height: 804.9px;
+  max-width: 1224px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .overlap-4 {
+  height: 1468px;
+  left: 12px;
+  position: relative;
+  top: -22px;
+  width: 1200px;
+}
+
+.poets-org-by-html-to .heading-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 995.35px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 1200px;
+}
+
+.poets-org-by-html-to .text-wrapper-20 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 70.4px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  position: relative;
+  width: 204.65px;
+}
+
+.poets-org-by-html-to .div-js-view-dom-id {
+  height: 1426px;
+  left: 80px;
+  position: absolute;
+  top: 42px;
+  width: 487px;
+}
+
+.poets-org-by-html-to .header {
+  align-items: flex-start;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  left: 0;
+  padding: 0px 0px 0px 290.17px;
+  position: absolute;
+  top: 58px;
+  width: 487px;
+}
+
+.poets-org-by-html-to .link-8 {
+  align-self: stretch;
+  position: relative;
+  width: 197.03px;
+}
+
+.poets-org-by-html-to .text-wrapper-21 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 29.9px;
+  font-weight: 500;
+  height: 32px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .pseudo-3 {
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultblack);
+  border-right-style: solid;
+  border-right-width: 2.86px;
+  height: 13px;
+  left: 184px;
+  position: absolute;
+  top: 11px;
+  transform: rotate(-45deg);
+  width: 13px;
+}
+
+.poets-org-by-html-to .div-views-row {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 2.86px;
+  position: absolute;
+  top: 144px;
+  width: 487px;
+}
+
+.poets-org-by-html-to .article-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 1px;
+  padding: 20px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-in-the-matter-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 118.2px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-22 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 26.4px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-4 {
+  align-self: stretch;
+  height: 224px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-field-content {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 300.2px 0px 0px;
+  position: absolute;
+  top: 176px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .div-field-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 412.2px 0px 0px;
+  position: absolute;
+  top: 200px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .text-wrapper-23 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 15.1px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-field-3 {
+  height: 144px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 447px;
+}
+
+.poets-org-by-html-to .overlap-5 {
+  height: 240px;
+  position: relative;
+}
+
+.poets-org-by-html-to .p-hd-fbabc {
+  height: 240px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.poets-org-by-html-to .text-wrapper-24 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .overlap-6 {
+  height: 59px;
+  left: 0;
+  position: absolute;
+  top: 29px;
+  width: 395px;
+}
+
+.poets-org-by-html-to .text-wrapper-25 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.1px;
+  font-weight: 400;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .text-wrapper-26 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.1px;
+  font-weight: 400;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 29px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .overlap-group-4 {
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 89px;
+  width: 305px;
+}
+
+.poets-org-by-html-to .text-wrapper-27 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 30px;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .text-wrapper-28 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 18.8px;
+  font-weight: 400;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .pseudo-4 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%);
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 72px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .article-wrapper {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 2.86px;
+  position: absolute;
+  top: 474px;
+  width: 487px;
+}
+
+.poets-org-by-html-to .link-compensation-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 263.2px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-field-content-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 280.2px 0px 0px;
+  position: absolute;
+  top: 176px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .overlap-group-5 {
+  height: 210px;
+  position: relative;
+}
+
+.poets-org-by-html-to .p-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 16px;
+  padding: 0px 134.2px 60px 0px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.poets-org-by-html-to .text-wrapper-29 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .text-wrapper-30 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.5px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .text-wrapper-31 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .text-wrapper-32 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.1px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .text-wrapper-33 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.2px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-views-row-2 {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex-direction: column;
+  left: 553px;
+  padding: 0px 0px 2.86px;
+  position: absolute;
+  top: 0;
+  width: 487px;
+}
+
+.poets-org-by-html-to .link-a-poem-for-my-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 198.2px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-field-content-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 348.2px 0px 0px;
+  position: absolute;
+  top: 176px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .div-field-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 410.2px 0px 0px;
+  position: absolute;
+  top: 200px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .overlap-group-6 {
+  height: 270px;
+  position: relative;
+}
+
+.poets-org-by-html-to .p-hd-a {
+  height: 270px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.poets-org-by-html-to .text-wrapper-34 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .text-wrapper-35 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 18.9px;
+  font-weight: 400;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 58px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .i-hear-you {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  height: 30px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: absolute;
+  top: 119px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .div-views-row-3 {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex-direction: column;
+  left: 553px;
+  padding: 0px 0px 2.86px;
+  position: absolute;
+  top: 330px;
+  width: 487px;
+}
+
+.poets-org-by-html-to .link-i-have-folded-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 119.2px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-field-content-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 350.2px 0px 0px;
+  position: absolute;
+  top: 176px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .div-field-5 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 411.2px 0px 0px;
+  position: absolute;
+  top: 200px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .text-wrapper-36 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 15.5px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .overlap-group-7 {
+  height: 691px;
+  position: relative;
+  top: -1px;
+}
+
+.poets-org-by-html-to .p-hd-cfa {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  left: 16px;
+  padding: 0px 4.2px 540.72px 0px;
+  position: absolute;
+  top: 0;
+  width: 431px;
+}
+
+.poets-org-by-html-to .i-have-folded-my {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .assigning-each-brief {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 19.1px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .pseudo-5 {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, rgb(255, 255, 255) 100%);
+  height: 72px;
+  left: 0;
+  position: absolute;
+  top: 73px;
+  width: 447px;
+}
+
+.poets-org-by-html-to .div-container-fluid {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 1446.86px;
+}
+
+.poets-org-by-html-to .div-block-views-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../../../static/img/div-block-views-block-promoted-poets-homepage-block.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 1014.38px;
+  justify-content: center;
+  padding: 57.6px 111.43px 57.6px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-row-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 899.18px;
+  max-width: 1224px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-row {
+  align-self: stretch;
+  height: 899.18px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading-margin-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 0px 9.6px;
+  position: absolute;
+  top: 0;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .heading-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1097px 0px 12px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-37 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #343434;
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-42-19-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-42-19-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-42-19-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-42-19-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-42-19-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-42-19-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-hd-babce {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: -12px;
+  position: absolute;
+  top: 67px;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .div-js-view-dom-id-2 {
+  align-self: stretch;
+  height: 831.98px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .overlap-7 {
+  height: 473px;
+  left: 816px;
+  position: absolute;
+  top: -57px;
+  width: 408px;
+}
+
+.poets-org-by-html-to .p-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 225px;
+  padding: 0px 0px 9.6px;
+  position: absolute;
+  top: 0;
+}
+
+.poets-org-by-html-to .p-hd-cafc {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  height: 48px;
+  justify-content: flex-end;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-9 {
+  align-self: stretch;
+  position: relative;
+  width: 168.24px;
+}
+
+.poets-org-by-html-to .text-wrapper-38 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 30.4px;
+  font-weight: 500;
+  height: 48px;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 48px;
+  position: absolute;
+  top: -1px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .pseudo-6 {
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: #343434;
+  border-right-style: solid;
+  border-right-width: 2.86px;
+  height: 13px;
+  left: 155px;
+  position: absolute;
+  top: 19px;
+  transform: rotate(-45deg);
+  width: 13px;
+}
+
+.poets-org-by-html-to .article-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  max-width: 408px;
+  padding: 0px 12px 32px;
+  position: absolute;
+  top: 57px;
+}
+
+.poets-org-by-html-to .article-5 {
+  align-items: flex-start;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 384px;
+  overflow: hidden;
+  position: relative;
+}
+
+.poets-org-by-html-to .screen {
+  background-image: url(../../../static/img/screen-20shot-202021-08-03-20at-2010-21-31-20am-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 383.99px;
+  max-width: 383.99px;
+  position: relative;
+  width: 383.99px;
+}
+
+.poets-org-by-html-to .div-poet-name-bio {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0px;
+  left: 0;
+  position: absolute;
+  top: 326px;
+}
+
+.poets-org-by-html-to .heading-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.9;
+  padding: 16px 218.99px 18.86px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-39 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -2.86px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-poet-bio {
+  align-self: stretch;
+  background-color: #343434;
+  flex: 1;
+  flex-grow: 1;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .article-margin-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  max-width: 408px;
+  padding: 0px 12px 32px;
+  position: absolute;
+  top: 0;
+}
+
+.poets-org-by-html-to .element {
+  background-image: url(../../../static/img/23-20danez-20headshot-20by-20anna-20min-2-jpg.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 383.99px;
+  max-width: 383.99px;
+  position: relative;
+  width: 383.99px;
+}
+
+.poets-org-by-html-to .heading-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.9;
+  padding: 16px 253.99px 18.86px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .article-margin-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 408px;
+  max-width: 408px;
+  padding: 0px 12px 32px;
+  position: absolute;
+  top: 0;
+}
+
+.poets-org-by-html-to .jackie {
+  background-image: url(../../../static/img/jackie-20wang-newbioimage2021-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 383.99px;
+  max-width: 383.99px;
+  position: relative;
+  width: 383.99px;
+}
+
+.poets-org-by-html-to .heading-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.9;
+  padding: 16px 252.99px 18.86px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .article-margin-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 0;
+  max-width: 408px;
+  padding: 0px 12px 32px;
+  position: absolute;
+  top: 416px;
+}
+
+.poets-org-by-html-to .chen {
+  background-image: url(../../../static/img/chen-20chen-20new-20bio-20image-202021-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 383.99px;
+  max-width: 383.99px;
+  position: relative;
+  width: 383.99px;
+}
+
+.poets-org-by-html-to .heading-8 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.9;
+  padding: 16px 269.99px 18.86px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .article-margin-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 408px;
+  max-width: 408px;
+  padding: 0px 12px 32px;
+  position: absolute;
+  top: 416px;
+}
+
+.poets-org-by-html-to .meg-day-newbiophoto {
+  background-image: url(../../../static/img/meg-day-newbiophoto-2019-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 383.99px;
+  max-width: 383.99px;
+  position: relative;
+  width: 383.99px;
+}
+
+.poets-org-by-html-to .heading-9 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultshamrock);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  opacity: 0.9;
+  padding: 16px 288.99px 18.86px 16px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-item-list-poet {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  left: 816px;
+  max-width: 408px;
+  padding: 0px 12px 32px;
+  position: absolute;
+  top: 416px;
+}
+
+.poets-org-by-html-to .div-promo-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 384px;
+  overflow: hidden;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-promo-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 28.8px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-container-2 {
+  height: 326.4px;
+  max-width: 1224px;
+  position: relative;
+  width: 326.4px;
+}
+
+.poets-org-by-html-to .overlap-group-8 {
+  height: 250px;
+  left: 13px;
+  position: relative;
+  top: 38px;
+  width: 300px;
+}
+
+.poets-org-by-html-to .div-google-image-div {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.poets-org-by-html-to .link-10 {
+  background-image: url(../../../static/img/link-12148630292958060946.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 250px;
+  position: relative;
+  width: 300px;
+}
+
+.poets-org-by-html-to .button-3 {
+  height: 15px;
+  left: 284px;
+  position: absolute;
+  top: 1px;
+  width: 15px;
+}
+
+.poets-org-by-html-to .div-hd-bcf {
+  height: 250px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.poets-org-by-html-to .div-block-homepage {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultiron);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 80px 111.43px 112px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-container-3 {
+  align-items: center;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.6px;
+  max-width: 1224px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .heading-10 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1015px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-40 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #343434;
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-44-44-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-44-44-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-44-44-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-44-44-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-44-44-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-44-44-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-d-flex-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 718.38px;
+  padding: 19.2px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-d-flex-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 679.98px;
+  max-width: 1224px;
+  padding: 0px 57.6px 0px 57.6px;
+  position: relative;
+}
+
+.poets-org-by-html-to .article-6 {
+  align-self: stretch;
+  height: 679.98px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-field-content-5 {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  display: flex;
+  left: 64px;
+  max-width: 976px;
+  position: absolute;
+  top: 40px;
+  width: 976px;
+}
+
+.poets-org-by-html-to .div-feature-content-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-right: -0.01px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-feature-content {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.89px;
+  padding: 18.91px 38.4px 35.19px 390px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading-link {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 24.98px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-41 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-5 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-field-6 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 499.61px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-42 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcarnation);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .p-hd-adfc {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 23.61px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-43 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 14.4px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .fall-winter-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 269px;
+  justify-content: flex-end;
+  left: 0;
+  max-height: 270px;
+  position: absolute;
+  top: -20px;
+  width: 385px;
+}
+
+.poets-org-by-html-to .fall-winter {
+  align-self: stretch;
+  background-image: url(../../../static/img/fall-winter-20season-20folliage-20for-20website-jpg.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  max-width: 385px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-field-content-6 {
+  align-items: flex-start;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  display: flex;
+  left: 0;
+  max-width: 976px;
+  position: absolute;
+  top: 384px;
+  width: 976px;
+}
+
+.poets-org-by-html-to .div-feature-content-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.89px;
+  padding: 19.2px 390px 19.2px 28.8px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .november-poem-a-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 22.96px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-field-7 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 490.21px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .listen-to-a-short-q-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 41.21px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .stevebellin-oka-wrapper {
+  align-items: flex-start;
+  display: flex;
+  height: 270px;
+  justify-content: flex-end;
+  left: 611px;
+  max-height: 270px;
+  position: absolute;
+  top: -20px;
+  width: 385px;
+}
+
+.poets-org-by-html-to .stevebellin-oka {
+  align-self: stretch;
+  background-image: url(../../../static/img/stevebellin-oka-bioimage-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  flex: 1;
+  flex-grow: 1;
+  max-width: 385px;
+  position: relative;
+}
+
+.poets-org-by-html-to .main {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.3px;
+  max-width: 1224px;
+  padding: 57.6px 0px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .div-row-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 528.09px;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 528.09px;
+  max-width: 816px;
+  padding: 0px 12px;
+  position: relative;
+  width: 816px;
+}
+
+.poets-org-by-html-to .div-block-views-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 9.6px;
+  padding: 28.8px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading-11 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 480px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-44 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 39.9px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-pl {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 1.14e-5px 0px 19.2px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-views-row-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.57px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultiron);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 18.63px 0px 0.57px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-views-field {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 648.8px 9.77px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-45 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcarnation);
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-4-upper-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-4-upper-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-4-upper-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-4-upper-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-4-upper-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-14-4-upper-line-height);
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .new-york-NY-october-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 25.8px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-46 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .link-read-more-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 699.8px 19.2px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-read-more {
+  color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-views-row-5 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.57px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultiron);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 18.62px 0px 0.57px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .september-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 630.8px 9.77px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .new-york-NY-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 18.8px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-views-row-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 0.57px;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultiron);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 18.63px 0px 0.56px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-field-content-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 118.8px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-47 {
+  color: #343434;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .complementary {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 528.05px;
+  max-width: 408px;
+  padding: 0px 12px 65.26px;
+  position: relative;
+  width: 408px;
+}
+
+.poets-org-by-html-to .div-awards {
+  align-self: stretch;
+  height: 462.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading-12 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  padding: 0px 291px 0px 0px;
+  position: absolute;
+  top: 29px;
+  width: 384px;
+}
+
+.poets-org-by-html-to .text-wrapper-48 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: #343434;
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-26-03-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-26-03-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-26-03-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-26-03-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-26-03-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-inter-medium-italic-26-03-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .p-awards-image {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  padding: 0px 98px 0px 0px;
+  position: absolute;
+  top: 72px;
+  width: 384px;
+}
+
+.poets-org-by-html-to .png {
+  background-image: url(../../../static/img/award1-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 117px;
+  max-width: 384px;
+  position: relative;
+  width: 286px;
+}
+
+.poets-org-by-html-to .png-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  left: 0;
+  padding: 0px 141px 0px 0px;
+  position: absolute;
+  top: 205px;
+  width: 384px;
+}
+
+.poets-org-by-html-to .award-png {
+  background-image: url(../../../static/img/award2-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 213px;
+  max-width: 384px;
+  position: relative;
+  width: 243px;
+}
+
+.poets-org-by-html-to .div-bg-dark {
+  align-items: center;
+  align-self: stretch;
+  background-color: #343434;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.3px;
+  padding: 0px 111.43px 0px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-product-feature {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1224px;
+  padding: 86.4px 12px 0px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .div-d-flex-4 {
+  align-self: stretch;
+  height: 685.71px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .overlap-group-9 {
+  height: 746px;
+  position: relative;
+  top: -60px;
+  width: 1173px;
+}
+
+.poets-org-by-html-to .div-product-feature-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 10.17px;
+  left: 0;
+  padding: 0px 80px 338.97px 0px;
+  position: absolute;
+  top: 59px;
+  width: 720px;
+}
+
+.poets-org-by-html-to .heading-13 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 141px 19.2px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-49 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Inter", Helvetica;
+  font-size: 40.1px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 44px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .div-pl-lg {
+  align-self: stretch;
+  height: 273.94px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .p-hd-edbdda {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 29px;
+  padding: 0px 26.01px 0px 0px;
+  position: absolute;
+  top: 0;
+  width: 592px;
+}
+
+.poets-org-by-html-to .produced-exclusively {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .span {
+  color: #ffffff;
+  font-family: "Roboto", Helvetica;
+  font-size: 20px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 28px;
+}
+
+.poets-org-by-html-to .text-wrapper-50 {
+  font-style: italic;
+}
+
+.poets-org-by-html-to .p-pl {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 29px;
+  padding: 0px 436.21px 0px 28.8px;
+  position: absolute;
+  top: 201px;
+  width: 592px;
+}
+
+.poets-org-by-html-to .text-wrapper-51 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .link-11 {
+  align-items: center;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcarnation);
+  border: 1px solid;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcarnation);
+  display: inline-flex;
+  left: 29px;
+  padding: 6.57px 18.58px 6.57px 18.78px;
+  position: absolute;
+  top: 241px;
+}
+
+.poets-org-by-html-to .text-wrapper-52 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  height: 24px;
+  left: 215px;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: absolute;
+  top: 243px;
+  white-space: nowrap;
+}
+
+.poets-org-by-html-to .div-product-feature-3 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 693px;
+  padding: 20.68px 0px 20.67px;
+  position: absolute;
+  top: 0;
+  width: 480px;
+}
+
+.poets-org-by-html-to .cover-wrapper {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  margin-right: -54.15px;
+  position: relative;
+}
+
+.poets-org-by-html-to .cover {
+  background-image: url(../../../static/img/ampo63-cover-20-28gourevitch-29-png.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  box-shadow: 5px 5px 15px #00000033;
+  height: 651.94px;
+  margin-bottom: -3.79px;
+  margin-top: -3.79px;
+  max-width: 435.03px;
+  position: relative;
+  transform: rotate(8.64deg);
+  width: 435.03px;
+}
+
+.poets-org-by-html-to .div-region {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultblack-squeeze);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.3px;
+  padding: 43.2px 111.43px 68px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-row-wrapper-2 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1224px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .div-row-3 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 350.05px;
+  padding: 0px 0px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-newsletter-form {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  height: 350.05px;
+  max-width: 408px;
+  padding: 0px 12px;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-cl-component {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  padding: 0px 0px 15.99px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .heading-14 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg1446857177734375x7531428833007812defaultcatskill-white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 17.6px 121.4px 20.46px 17.6px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-53 {
+  color: var(--poetsorg1446857177734375x7531428833007812defaultmine-shaft);
+  font-family: "Inter", Helvetica;
+  font-size: 26.5px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -2.86px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .form-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .list-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 196px;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+
+.poets-org-by-html-to .list-5 {
+  align-self: stretch;
+  position: relative;
+  width: 352px;
+}
+
+.poets-org-by-html-to .item-label {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 24px;
+  padding: 0px 4.95px 0px 0px;
+  position: absolute;
+  top: 0;
+}
+
+.poets-org-by-html-to .pseudo-7 {
+  border: 1px solid;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultloblolly);
+  border-radius: 2px;
+  height: 16px;
+  left: -24px;
+  position: absolute;
+  top: 4px;
+  width: 16px;
+}
+
+.poets-org-by-html-to .text-wrapper-54 {
+  color: var(--poetsorg1446857177734375x7531428833007812defaultebony-clay);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .item-label-2 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 24px;
+  padding: 0px 58px 0px 0px;
+  position: absolute;
+  top: 52px;
+}
+
+.poets-org-by-html-to .academy-of-american {
+  color: var(--poetsorg1446857177734375x7531428833007812defaultebony-clay);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .item-label-3 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 24px;
+  padding: 0px 0.81px 0px 0px;
+  position: absolute;
+  top: 120px;
+}
+
+.poets-org-by-html-to .item-label-4 {
+  align-items: flex-start;
+  display: inline-flex;
+  left: 24px;
+  padding: 0px 1.94px 0px 0px;
+  position: absolute;
+  top: 172px;
+}
+
+.poets-org-by-html-to .input-5 {
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border: 1px solid;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultboulder);
+  height: 29px;
+  left: -5028px;
+  position: absolute;
+  top: 248px;
+  width: 178px;
+  z-index: 1;
+}
+
+.poets-org-by-html-to .div-mc-field-group-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  gap: 0.56px;
+  height: 36px;
+  padding: 0px 7.63e-6px 0px 0.57px;
+  position: relative;
+  width: 100%;
+  z-index: 0;
+}
+
+.poets-org-by-html-to .input-6 {
+  align-self: stretch;
+  background-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  border: 1px solid;
+  border-color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultloblolly);
+  flex: 1;
+  flex-grow: 1;
+  margin-bottom: -1px;
+  margin-left: -1px;
+  margin-top: -1px;
+  position: relative;
+}
+
+.poets-org-by-html-to .input-7 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  justify-content: center;
+  padding: 7.11px 17.46px 8.89px 17.67px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-55 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  display: -webkit-box;
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .navigation-margin {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  max-width: 408px;
+  padding: 0px 0px 0px 102px;
+  position: relative;
+}
+
+.poets-org-by-html-to .navigation {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 306px;
+  padding: 0px 12px 71.99px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-56 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 26.4px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -2.86px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .link-become-a-member-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 114px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-57 {
+  color: var(--poetsorg1446857177734375x7531428833007812defaultdeep-cerulean);
+  font-family: "Roboto", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .link-donate-now-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 162px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-get-involved-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 160px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-make-a-bequest-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 134px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-advertise-with-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 124px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-poets-shop-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 167px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .navigation-2 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 16px;
+  height: 350.05px;
+  max-width: 408px;
+  padding: 0px 12px 233.99px;
+  position: relative;
+}
+
+.poets-org-by-html-to .heading-15 {
+  align-items: flex-start;
+  align-self: stretch;
+  border-bottom-style: solid;
+  border-bottom-width: 2.86px;
+  border-color: var(--poetsorg1446857177734375x7531428833007812defaultcatskill-white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 17.6px 240.4px 20.46px 17.6px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-58 {
+  color: #343434;
+  font-family: "Inter", Helvetica;
+  font-size: 27.2px;
+  font-style: italic;
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 32px;
+  margin-top: -2.86px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .list-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  justify-content: space-between;
+  padding: 0px 0.04px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-margin {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 9.6px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .img-2 {
+  display: block;
+  height: 30px;
+  position: relative;
+  width: 30px;
+}
+
+.poets-org-by-html-to .item-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+}
+
+.poets-org-by-html-to .div-footer-primary {
+  align-items: center;
+  align-self: stretch;
+  background-color: #343434;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 57.6px 111.43px 57.6px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .navigation-3 {
+  align-items: flex-start;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  max-width: 1224px;
+  padding: 0px 12px;
+  position: relative;
+  width: 1224px;
+}
+
+.poets-org-by-html-to .list-7 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 345.59px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-5 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 9.59px;
+  height: 345.51px;
+  max-width: 300px;
+  padding: 0px 12px 33.52px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-poets-org-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 156px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .text-wrapper-59 {
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 0;
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcerulean);
+  display: -webkit-box;
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-line-height);
+  margin-top: -1px;
+  overflow: hidden;
+  position: relative;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .link-find-poems-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 186.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-find-poets-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 194.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-poetry-near-you-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 154.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-jobs-for-poets-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 165.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-read-stanza-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 181.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-privacy-policy-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 170.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-6 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 178.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-advertise-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 202.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-7 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8.51px;
+  height: 345.59px;
+  max-width: 300px;
+  padding: 0px 12px;
+  position: relative;
+}
+
+.poets-org-by-html-to .heading-16 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0.28px 72.32px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .academy-of-american-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 8.68px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-60 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcerulean);
+  font-family: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-family);
+  font-size: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-size);
+  font-style: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-style);
+  font-weight: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-font-weight);
+  letter-spacing: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-letter-spacing);
+  line-height: var(--poets-org-1446-857177734375x753-1428833007812-default-roboto-medium-28-line-height);
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .link-about-us-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 205.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-programs-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 200.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-prizes-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 226.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-first-book-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 148.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-james-laughlin-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 107.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-ambroggio-prize-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 150.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-chancellors-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 185.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-staff-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 235.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-8 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 8.51px;
+  height: 345.51px;
+  max-width: 300px;
+  padding: 0px 12px 100.72px;
+  position: relative;
+}
+
+.poets-org-by-html-to .heading-17 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0.28px 73.45px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .national-poetry-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  padding: 0px 14.55px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-poetry-the-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 79.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-dear-poet-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 145.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-poster-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 223.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-ways-to-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 119.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-sponsorship-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 180.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .item-9 {
+  align-items: flex-start;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  flex-grow: 1;
+  gap: 9.59px;
+  height: 345.51px;
+  max-width: 300px;
+  padding: 0px 12px 201.52px;
+  position: relative;
+}
+
+.poets-org-by-html-to .link-american-poets-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 81px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-essays-wrapper {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 4.8px 220.21px 4.8px 4.79px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-footer-utility {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--poetsorg1446857177734375x7531428833007812defaultcod-gray);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  margin-top: -0.09px;
+  padding: 62.4px 111.43px 62.38px 111.43px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-row-4 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0px 0px;
+  height: 52.8px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-col-sm {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 52.8px;
+  max-width: 1020px;
+  padding: 0px 12px;
+  position: relative;
+  width: 1020px;
+}
+
+.poets-org-by-html-to .div-utility-links {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 28.8px 430px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .div-utility-links-wrapper {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 52.79px;
+  max-width: 204px;
+  padding: 0px 12px 10.79px;
+  position: relative;
+  width: 204px;
+}
+
+.poets-org-by-html-to .div-utility-links-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  padding: 0px 46.79px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.poets-org-by-html-to .link-12 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 8.67px;
+  padding: 0px 3.54px 0px 0px;
+  position: relative;
+}
+
+.poets-org-by-html-to .text-wrapper-61 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultcerulean);
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.poets-org-by-html-to .text-wrapper-62 {
+  color: var(--poetsorg-144685717773437-5x-753142883300781-2defaultnero);
+  font-family: "Roboto", Helvetica;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
